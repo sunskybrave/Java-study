@@ -19,4 +19,4 @@ p183——p187
                 && age==temp.age
                 && salary==temp.salary;
     }
-    、、、
+、、、
