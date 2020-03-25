@@ -5,7 +5,8 @@ p183——p187
 
 超类的检测方法 getClass为例   
 
- ```public boolean equals(Object other)
+ ```
+    public boolean equals(Object other)
     {
         if(this == other)
             return true;
