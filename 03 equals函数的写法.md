@@ -4,8 +4,8 @@ p183——p187
 如果超类定义相等的概念，则可以使用instanceof进行检测  
 
 超类的检测方法 getClass为例   
-、、、
-    public boolean equals(Object other)
+
+ ```public boolean equals(Object other)
     {
         if(this == other)
             return true;
@@ -19,4 +19,4 @@ p183——p187
                 && age==temp.age
                 && salary==temp.salary;
     }
-、、、
+```
